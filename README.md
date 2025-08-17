@@ -50,7 +50,7 @@ pip install -r requirements.tx
 Run the visualisation:
 
 ```bash
-python src/main.py
+python main.py
 ```
 ---
 
